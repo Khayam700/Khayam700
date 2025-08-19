@@ -71,9 +71,13 @@ I love solving real-world problems with clean, modular code — and exploring AI
   <a href="https://www.instagram.com/khayam7000" target="_blank" rel="noopener">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://www.facebook.com/share/1ErudxJW73/" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
   <a href="https://github.com/Khayam700" target="_blank" rel="noopener">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
+    
 </p>
 
 ---
