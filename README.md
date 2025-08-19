@@ -78,13 +78,6 @@ I love solving real-world problems with clean, modular code — and exploring AI
 
 ---
 
-## ☕ Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/Khayam700"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
-  <a href="https://ko-fi.com/Khayam700"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a>
-</p>
-
----
 
 ## 🤓 Fun Facts
 - Exploring AI in ERP systems is my guilty pleasure 🤖  
@@ -107,7 +100,3 @@ I love solving real-world problems with clean, modular code — and exploring AI
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Khayam700&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-![](https://visitcount.itsvg.in/api?id=Khayam700&icon=0&color=1)
